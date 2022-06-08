@@ -1,0 +1,37 @@
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-family: Verdana;
+    font-size: 30px;
+    text-align: center;
+    background-color: antiquewhite;
+    color:black;
+}
+h1 {
+    font-size: 50px;
+}
+h2 {
+    font-size: 45px;
+}
+h1, h2 {
+    color:navy;
+}
+a {
+    background-color: rgb(240, 205, 224);
+  color: black;
+  border: 2px solid navy;
+  border-radius: 25px;
+  margin: 0.5cm;
+  padding: 5px 10px;
+  text-decoration: none;
+  display: inline-block;
+}
+a:visited {
+    color: black;
+}
+img{
+    border-radius: 25px;
+}
